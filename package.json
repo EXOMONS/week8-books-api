@@ -1,0 +1,13 @@
+{
+  "name": "week8-books-api",
+  "version": "1.0.0",
+  "description": "Week 8 Node.js and Express Books assignment",
+  "main": "server.js",
+  "scripts": {
+    "files": "node files.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
